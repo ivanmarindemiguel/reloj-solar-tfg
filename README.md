@@ -29,22 +29,6 @@ pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
-## Publicar con enlace
-
-La app original usa Tkinter, por lo que no puede ejecutarse directamente en GitHub Pages. Para tener un enlace publico de la aplicacion, publica este repositorio en GitHub y despliega `streamlit_app.py` en Streamlit Community Cloud.
-
-Pasos recomendados:
-
-1. Crea un repositorio nuevo en GitHub.
-2. Sube estos archivos al repositorio.
-3. En Streamlit Community Cloud, crea una app nueva desde el repositorio.
-4. Usa `streamlit_app.py` como archivo principal.
-5. Comparte el enlace publico generado por Streamlit.
-
-Referencias:
-
-- GitHub: https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
-- Streamlit: https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy
 
 ## Estructura
 
