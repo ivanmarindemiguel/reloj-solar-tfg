@@ -1,0 +1,50 @@
+{
+  "fuente_direccion": "UAX Campus Madrid Chamberí, C. de Arapiles, 13, 28015 Madrid",
+  "fuente_coordenadas": "Wikidata Q28529513: 40°25'57.60\"N, 3°42'22.81\"W",
+  "lat_deg": 40.43266666666666,
+  "lon_deg": -3.7063361111111113,
+  "year": 2026,
+  "target_width_m": 1.0,
+  "target_height_m": 0.5,
+  "vertical_wall_declination_deg": 0.0,
+  "special_dates_dd_mm": [
+    "21/01",
+    "21/02",
+    "20/03",
+    "21/04",
+    "21/05",
+    "21/06",
+    "21/07",
+    "21/08",
+    "22/09",
+    "21/10",
+    "21/11",
+    "21/12"
+  ],
+  "horizontal": {
+    "style_height_m": 0.043894699544296756,
+    "occupied_width_m": 1.0,
+    "occupied_height_m": 0.48381553646259284,
+    "warnings": [],
+    "files": [
+      "plantillas_uax_chamberi\\uax_chamberi_horizontal_TFG.png",
+      "plantillas_uax_chamberi\\uax_chamberi_horizontal_TFG.pdf",
+      "plantillas_uax_chamberi\\uax_chamberi_horizontal_escala_real_300dpi.png",
+      "plantillas_uax_chamberi\\uax_chamberi_horizontal_escala_real.pdf",
+      "plantillas_uax_chamberi\\uax_chamberi_horizontal_coordenadas.xlsx"
+    ]
+  },
+  "vertical": {
+    "nodus_distance_m": 0.044492075079685826,
+    "occupied_width_m": 1.0,
+    "occupied_height_m": 0.3652356061051004,
+    "warnings": [],
+    "files": [
+      "plantillas_uax_chamberi\\uax_chamberi_vertical_TFG.png",
+      "plantillas_uax_chamberi\\uax_chamberi_vertical_TFG.pdf",
+      "plantillas_uax_chamberi\\uax_chamberi_vertical_escala_real_300dpi.png",
+      "plantillas_uax_chamberi\\uax_chamberi_vertical_escala_real.pdf",
+      "plantillas_uax_chamberi\\uax_chamberi_vertical_coordenadas.xlsx"
+    ]
+  }
+}
